@@ -1,0 +1,45 @@
+main {
+    margin: 50px;
+    padding: 50px;
+    font-family: 'Climate Crisis', cursive;
+font-size: xx-large;
+    color: rgb(62, 41, 2);
+    display: flex;
+    justify-content: center;
+    background-color:rgba(228, 215, 215, 0.499);
+      border: 2px rgba(252, 245, 245, 0.499) solid;
+border-radius: 30px;
+;
+    
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content:space-around;
+    gap: 20px;
+}
+
+nav {
+    background-color: rgb(184, 158, 158)
+;
+    height: 20%;
+    margin: 5px;
+        padding: 15px ;
+        border: 2px rgba(228, 215, 215, 0.499);
+border-radius: 30px;
+}
+a {
+    color: rgb(56, 34, 9);
+    text-decoration: none;
+    font-size:x-large;
+   
+            font-family: 'Tilt Warp', cursive;
+
+}
+
+
+
+body {
+    background-color: rgba(209, 185, 185, 0.988);
+}
